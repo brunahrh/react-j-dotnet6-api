@@ -1,1 +1,1 @@
-# react-j-dotnet6-api
+# react-js-dotnet6-api
